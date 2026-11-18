@@ -1,138 +1,51 @@
-# MS SQL Server & MongoDB Training Repository
+# Database Training Projects
 
-This repository contains database assignments, hands-on exercises, and mini-projects completed as part of database training. It covers SQL concepts, database design, normalization, data manipulation, querying, and NoSQL database operations.
+My database training assignments and projects covering SQL and MongoDB.
 
-## 📚 Repository Structure
+## Folder Structure
 
 ```text
-MS-SQL-server/
+Database-Training/
 │
 ├── Day_05_Databases_Normalisation_and_Data_Definition/
+│   │
 │   ├── Bank_Branch_Accounts_Management_System/
 │   ├── Hospital_Visit_Management_System/
 │   └── Retail_Inventory_Project/
 │
 ├── Day_06_Database_Projects/
-│   ├── Project_1/
-│   ├── Project_2/
-│   └── Project_3/
+│   │
+│   ├── Insurance_Policy_Administration_Reporting_System/ 
+│   ├── Retail_Sales_Reporting/
+│   └── Telecom_Usage_and_Billing_Reporting_System/
+│     
 │
 └── README.md
 ```
 
----
+## Day 05 – SQL Projects
 
-## 📅 Day 05 – Databases, Normalisation and Data Definition
+All three projects use SQL and focus on database design, normalization, data definition, and SQL operations.
 
-Day 05 focuses on relational database concepts, database design, normalization, and SQL operations.
+- **Bank Branch Accounts Management System**
+- **Hospital Visit Management System**
+- **Retail Inventory Project**
 
-All **three projects in Day 05 are implemented using SQL**.
+## Day 06 – Database Reporting Projects
 
-### 1. Bank Branch Accounts Management System
-**Technology:** SQL
+- **Insurance Policy Administration Reporting System** – SQL
+- **Retail Sales Reporting** – SQL
+- **Telecom Usage and Billing Reporting System** – MongoDB
 
-This project focuses on managing bank branch and account-related information using relational database concepts.
+## Technologies
 
-Topics covered:
-- Database and table creation
-- Schema design
-- Data definition
-- SQL queries
-- Data manipulation
-- Relational database management
+- SQL
+- Microsoft SQL Server
+- MongoDB
+- MongoDB Atlas
+- VS Code
 
-### 2. Hospital Visit Management System
-**Technology:** SQL
 
-This project manages hospital visit-related information using structured relational tables.
-
-Topics covered:
-- Database schema creation
-- Table relationships
-- Data insertion
-- SQL queries
-- Altering table structures
-- Data management
-
-### 3. Retail Inventory Project
-**Technology:** SQL
-
-This project demonstrates database management for a retail inventory system.
-
-Topics covered:
-- Database schema design
-- Data insertion
-- Data modification
-- SQL queries
-- Verification queries
-- Normalization
 
 ---
-
-## 📅 Day 06 – Database Projects
-
-Day 06 consists of three database projects.
-
-**Projects 1 and 2 use SQL, while Project 3 uses MongoDB.**
-
-### Project 1 – SQL Database Project
-**Technology:** SQL
-
-A relational database project involving structured data storage, schema creation, SQL operations, and data retrieval.
-
-Topics covered:
-- Database creation
-- Table creation
-- Data manipulation
-- Querying
-- Data validation
-
-### Project 2 – SQL Database Project
-**Technology:** SQL
-
-A relational database project demonstrating database design and SQL-based data operations.
-
-Topics covered:
-- Schema design
-- SQL statements
-- Data insertion and modification
-- Data retrieval
-- Database management
-
-### Project 3 – MongoDB Project
-**Technology:** MongoDB
-
-This project introduces NoSQL database concepts using MongoDB.
-
-Topics covered:
-- Database and collection creation
-- Document insertion
-- MongoDB queries
-- Document-based data storage
-- Aggregation pipelines
-- Data analysis and reporting
-
----
-
-## 🛠️ Technologies Used
-
-| Technology | Purpose |
-|---|---|
-| SQL | Relational database management |
-| Microsoft SQL Server | SQL database implementation |
-| MongoDB | NoSQL document database |
-| MongoDB Atlas | Cloud-hosted MongoDB database |
-| MongoDB Compass | GUI for MongoDB database management |
-| Visual Studio Code | Code editing and project development |
-| Git & GitHub | Version control and repository management |
-
----
-
-
-
-
-## 👩‍💻 About
-
-This repository serves as a record of database training exercises and practical implementations, demonstrating hands-on experience with both relational databases and NoSQL databases.
-
-**Topics:** SQL • Database Design • Normalization • Microsoft SQL Server • MongoDB • NoSQL • Aggregation • Database Reporting
+*Database training assignments and hands-on practice.*
